@@ -1,0 +1,3 @@
+com.servicematrix.autofactory.processor.DeviceProcessor
+
+com.servicematrix.autofactory.processor.InBoundMessageProcessor
